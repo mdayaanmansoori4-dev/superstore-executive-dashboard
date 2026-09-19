@@ -4,14 +4,35 @@ An enterprise-grade, 3-page Power BI executive analytics solution built on the G
 
 ---
 
-## 📊 Live Dashboard Preview
+## 📊 Live Dashboard Showcase
 
-| Page 1: Executive Sales & Financial Overview | Page 2: Product & Profitability Intelligence | Page 3: Supply Chain & Logistics Diagnostics |
-| :---: | :---: | :---: |
-| ![Page 1](<img width="1026" height="703" alt="Screenshot 2026-09-19 223746" src="https://github.com/user-attachments/assets/caad62e4-c218-43ad-8f5c-bf9910a89acc" />
-) | ![Page 2](<img width="995" height="810" alt="Screenshot 2026-09-19 223829" src="https://github.com/user-attachments/assets/c27f9958-8f66-40c9-900b-b8490d95b42f" />
-) | ![Page 3](<img width="1023" height="706" alt="Screenshot 2026-09-19 224037" src="https://github.com/user-attachments/assets/bb37c149-5d9f-4c8b-9033-22ee22b88c27" />
-) |
+### 1. Executive Sales & Financial Overview
+> High-level commercial health tracking top-line sales velocity, net profit generation, customer segment dependencies, and regional profitability.
+
+<p align="center">
+  <img width="1026" height="703" alt="Screenshot 2026-09-19 223746" src="https://github.com/user-attachments/assets/9742ff38-7f7b-48b6-826c-eb722c3310f7" />
+
+</p>
+
+---
+
+### 2. Product & Profitability Intelligence
+> Deep-dive diagnostic isolating discount erosion patterns, sub-category margin contributions, and the top loss-bleeding SKUs.
+
+<p align="center">
+ <img width="995" height="810" alt="Screenshot 2026-09-19 223829" src="https://github.com/user-attachments/assets/8a95711d-e121-4a1b-8755-6e76700c05ef" />
+
+</p>
+
+---
+
+### 3. Supply Chain & Logistics Diagnostics
+> Operational fulfillment scorecard monitoring transit velocity by ship mode, seasonal latency drift against the 4-day SLA benchmark, and state-level delay exceptions.
+
+<p align="center">
+  <img width="1023" height="706" alt="Screenshot 2026-09-19 224037" src="https://github.com/user-attachments/assets/327b93f8-0cd3-4d79-b3a4-8f9dc1144db5" />
+
+</p>
 
 ---
 
